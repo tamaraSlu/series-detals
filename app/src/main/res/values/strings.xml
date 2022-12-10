@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">homework2</string>
+
+    <string-array name="characters">
+        <item>SpongeBob SquarePants</item>
+        <item>Squidward Tentacles</item>
+        <item>Patrick Star</item>
+        <item>Gary the Snail</item>
+        <item>Sandy Cheeks</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>A yellow sea sponge.\nHe lives in a pineapple house.\nHe works as a fry cook at the Krusty Krab restaurant.\n</item>
+        <item>A turquoise octopus.\nHe works as a cashier at the Krusty Krab restaurant.\n</item>
+        <item>A pink starfish.\nHe is best friends with SpongeBob.\n He lives under a rock.\n</item>
+        <item>It is SpongeBob\'s pet sea snail.\n</item>
+        <item>A squirrel from Texas.\nShe lives in an air-filled glass dome.\nShe works as a scientist.\n</item>
+    </string-array>
+
+
+    <string-array name="long_descriptions">
+        <item>SpongeBob is a good-natured, naive sea sponge.\n\nHe lives in the undersea city of Bikini Bottom in a pineapple house.\n\nHe works as a fry cook at the Krusty Krab restaurant.\n\nSpongeBob\'s hobbies include fishing for jellyfish, practicing karate and blowing bubbles.</item>
+        <item>Squidward is a grumpy and bitter turquoise octopus.\n\nHe lives in the city of Bikini Bottom in a moai situated between SpongeBob\' pineapple house and Patrick Star\'s rock.\n\nHe believes himself to be a talented artist and musician.\n\nHe plays the clarinet and paints self-portraits.</item>
+        <item>Patrick Star is A pink starfish who lives under a rock and wears flowered swim trunks.\n\nHe is SpongeBob\'s best friend.\n\nHe is with extremely low intelligence.\n\nHe is generally slow and even-tempered but can sometimes get aggressive, much like real starfish.</item>
+        <item>Gary the Snail is SpongeBob\'s pet sea snail.\n\n It lives with SpongeBob and vocalizes like a cat.\n\nGary often serves as a voice of reason to SpongeBob and solves problems that his owner cannot.\n\nHe has a pink shell that is impossibly spacious on the inside.</item>
+        <item>Sandy Cheeks is a squirrel from Texas.\n\nShe lives in an air-filled glass dome and wears a diving suit to breathe underwater.\n\nSandy works as a scientist, and inventor.\n\nShe is a rodeo champion with a number of athletic interests, such as "sand-boarding" and karate.</item>
+    </string-array>
+</resources>
